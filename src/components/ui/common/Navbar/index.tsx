@@ -10,7 +10,7 @@ export function Navbar() {
               FinSearch
             </span>
           </div>
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-4 text-black">
             <button title='bell' className="p-2 rounded-lg hover:bg-gray-100">
               <FiBell className="w-6 h-6" />
             </button>
